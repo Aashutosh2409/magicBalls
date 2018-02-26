@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size1">23sp</dimen>
+    <dimen name="pad">13sp</dimen>
+    <dimen name="size3">25sp</dimen>
+</resources>
