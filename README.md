@@ -1,3 +1,8 @@
 # magicBalls
 Android App
 supported above 4.1 version
+# Screenshots
+<div align="justify & center">
+    <img src="/images/img1.jpg" width="333px" height="500px" </img>
+    <img src="/images/img2.jpg" width="333px" height="500px" </img>
+</div>
